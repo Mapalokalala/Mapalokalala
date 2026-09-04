@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     GITHUB PROFILE README
+     GITHUB PROFILE README — MAPALO KALALA
 ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- HERO BANNER -->
@@ -50,6 +50,28 @@
       <img src="https://github.com/Mapalokalala.png" width="190" style="border-radius: 50%; border: 4px solid #00B4D8; box-shadow: 0px 4px 20px rgba(0, 180, 216, 0.4);" alt="Mapalo Kalala">
       <br><br>
       <img src="https://img.shields.io/badge/Location-Kitwe%2C%20Zambia-168AAD?style=for-the-badge&labelColor=0D1B2A" alt="Location">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- FEATURED PROJECTS SECTION -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="100%" bgcolor="#0D1B2A" style="border: 1px solid #00B4D8; border-radius: 8px;">
+      <h3>💻 <a href="https://github.com/Mapalokalala/Mini_OS_Dashboard-" style="color: #00B4D8; text-decoration: none;">mini_os</a></h3>
+      <p>A lightweight, experimental mini operating system built in C++ exploring low-level architecture, memory management, process concepts, and command-line system interaction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Operating%20Systems-00B4D8?style=flat-square&labelColor=0D1B2A" alt="OS">
+        <img src="https://img.shields.io/badge/Systems%20Programming-168AAD?style=flat-square&labelColor=0D1B2A" alt="Systems">
+      </p>
+      <a href="https://github.com/Mapalokalala/mini_os">
+        <img src="https://img.shields.io/badge/View%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A" alt="View Repository">
+      </a>
     </td>
   </tr>
 </table>
