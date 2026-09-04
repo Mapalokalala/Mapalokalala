@@ -1,13 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     GITHUB PROFILE README — MAPALO KALALA
+     GITHUB PROFILE README
 ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ENLARGED HERO BANNER -->
+<!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4965,100:00B4D8&height=300&section=header&text=Hi,%20I'm%20Mapalo%20Kalala%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20Systems&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner">
 </p>
 
-<!-- TYPING ANIMATION SVG -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/Mapalokalala">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4500&pause=2000&color=00B4D8&center=true&vCenter=true&width=780&height=45&lines=Computer+Science+Student+%40+Copperbelt+University;C%2B%2B+%26+C%23+Software+Developer;Building+Cross-Platform+Apps+with+.NET+MAUI;Full-Stack+Development+Enthusiast;Embedded+Systems+%26+Hardware+Simulation" alt="Typing Animation">
@@ -30,7 +30,7 @@
 <!-- ABOUT ME SECTION -->
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td width="65%" valign="top">
       <h3>Greetings! 👋</h3>
@@ -47,12 +47,14 @@
       <blockquote><b>"I can do all things through Christ who strengthens me." — Philippians 4:13</b></blockquote>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/Mapalokalala.png" width="200" style="border-radius: 50%; border: 4px solid #00B4D8; box-shadow: 0px 4px 20px rgba(0, 180, 216, 0.4);" alt="Mapalo Kalala">
+      <img src="https://github.com/Mapalokalala.png" width="190" style="border-radius: 50%; border: 4px solid #00B4D8; box-shadow: 0px 4px 20px rgba(0, 180, 216, 0.4);" alt="Mapalo Kalala">
       <br><br>
       <img src="https://img.shields.io/badge/Location-Kitwe%2C%20Zambia-168AAD?style=for-the-badge&labelColor=0D1B2A" alt="Location">
     </td>
   </tr>
 </table>
+
+<br>
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">⚡ Tech Stack</h2>
@@ -89,24 +91,21 @@
 
 <p align="center">
   <a href="https://github.com/Mapalokalala">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Mapalokalala&theme=transparent&hide_border=true&background=00000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=168AAD&currStreakNum=FFFFFF&sideNums=0077B6&dates=5E7D8A" alt="GitHub Streak Stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mapalokalala&theme=transparent&hide_border=true&background=00000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=168AAD&currStreakNum=FFFFFF&sideNums=0077B6&dates=5E7D8A" alt="GitHub Streak Stats">
   </a>
 </p>
-
-<!-- GITHUB STATS & LANGUAGES -->
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/Mapalokalala">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mapalokalala&show_icons=true&theme=dark&bg_color=0D1B2A&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="GitHub Stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mapalokalala&show_icons=true&theme=dark&bg_color=0D1B2A&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="GitHub Stats">
   </a>
   <a href="https://github.com/Mapalokalala">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mapalokalala&layout=compact&theme=dark&bg_color=0D1B2A&title_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="Top Languages">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mapalokalala&layout=compact&theme=dark&bg_color=0D1B2A&title_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="Top Languages">
   </a>
 </p>
+
 <br>
 
-<!-- CONTRIBUTION SNAKE SECTION WITH DATES & METRICS -->
 <!-- CONTRIBUTION SNAKE SECTION -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
@@ -118,9 +117,7 @@
   <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
 </p>
 
-<p align="center">
-  <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
-</p>
+<br>
 
 <!-- EDUCATION SECTION -->
 <h2 align="center">🎓 Education</h2>
