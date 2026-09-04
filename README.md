@@ -57,13 +57,15 @@
 <br>
 
 <!-- CURRENT FOCUS SECTION -->
-<h2 align="center">🎯 Current Focus</h2>
+<!-- CONTRIBUTION SNAKE SECTION -->
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-00B4D8?style=for-the-badge" alt="Full-Stack Development">
-  <img src="https://img.shields.io/badge/Software%20Engineering-168AAD?style=for-the-badge" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/Systems%20Programming-1B4965?style=for-the-badge" alt="Systems Programming">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0077B6?style=for-the-badge" alt="Embedded Systems">
+  <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%">
+</p>
+
+<p align="center">
+  <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
 </p>
 
 <br>
