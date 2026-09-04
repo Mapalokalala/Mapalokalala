@@ -54,22 +54,6 @@
   </tr>
 </table>
 
-<br>
-
-<!-- CURRENT FOCUS SECTION -->
-<!-- CONTRIBUTION SNAKE SECTION -->
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%">
-</p>
-
-<p align="center">
-  <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
-</p>
-
-<br>
-
 <!-- TECH STACK SECTION -->
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -117,19 +101,15 @@
 <br>
 
 <!-- CONTRIBUTION SNAKE SECTION WITH DATES & METRICS -->
+<!-- CONTRIBUTION SNAKE SECTION -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Timeframe-Past%20365%20Days-00B4D8?style=for-the-badge&labelColor=0D1B2A" alt="Date Range">
-  <img src="https://img.shields.io/github/commit-activity/y/Mapalokalala/Mapalokalala?style=for-the-badge&color=168AAD&labelColor=0D1B2A&label=Annual%20Commits" alt="Annual Commit Activity">
+  <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake.svg?v=2">
-    <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg?v=2" alt="GitHub Contribution Snake Animation" width="100%">
-  </picture>
+  <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
 </p>
 
 <p align="center">
