@@ -93,9 +93,15 @@
   </a>
 </p>
 
+<!-- GITHUB STATS & LANGUAGES -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   <a href="https://github.com/Mapalokalala">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mapalokalala&theme=react-dark&bg_color=0D1B2A&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" alt="Activity Graph">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mapalokalala&show_icons=true&theme=dark&bg_color=0D1B2A&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Mapalokalala">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mapalokalala&layout=compact&theme=dark&bg_color=0D1B2A&title_color=00B4D8&text_color=FFFFFF&border_color=0D1B2A&v=3" alt="Top Languages">
   </a>
 </p>
 <br>
