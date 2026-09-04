@@ -62,14 +62,16 @@
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="100%" bgcolor="#0D1B2A" style="border: 1px solid #00B4D8; border-radius: 8px;">
-      <h3>💻 <a href="https://github.com/Mapalokalala/Mini_OS_Dashboard-" style="color: #00B4D8; text-decoration: none;">mini_os</a></h3>
-      <p>A lightweight, experimental mini operating system built in C++ exploring low-level architecture, memory management, process concepts, and command-line system interaction.</p>
+      <h3>💻 <a href="https://github.com/Mapalokalala/MINI_OS_DASHBOARD" style="color: #00B4D8; text-decoration: none;">MINI_OS_DASHBOARD</a></h3>
+      <p>A comprehensive Operating System simulation environment written in C, featuring both a modern GTK+ 3.0 graphical interface and a classic command-line interface. This project simulates core OS responsibilities including process management, memory allocation, CPU scheduling, and deadlock handling.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+        <img src="https://img.shields.io/badge/GTK%2B%203.0-4A90E2?style=flat-square&logo=gtk&logoColor=white" alt="GTK+ 3.0">
         <img src="https://img.shields.io/badge/Operating%20Systems-00B4D8?style=flat-square&labelColor=0D1B2A" alt="OS">
-        <img src="https://img.shields.io/badge/Systems%20Programming-168AAD?style=flat-square&labelColor=0D1B2A" alt="Systems">
+        <img src="https://img.shields.io/badge/Process%20Management-168AAD?style=flat-square&labelColor=0D1B2A" alt="Process Management">
+        <img src="https://img.shields.io/badge/CPU%20Scheduling-0077B6?style=flat-square&labelColor=0D1B2A" alt="CPU Scheduling">
       </p>
-      <a href="https://github.com/Mapalokalala/mini_os">
+      <a href="https://github.com/Mapalokalala/MINI_OS_DASHBOARD">
         <img src="https://img.shields.io/badge/View%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A" alt="View Repository">
       </a>
     </td>
