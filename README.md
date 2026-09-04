@@ -114,18 +114,25 @@
 </p>
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- CONTRIBUTION SNAKE SECTION WITH DATES & METRICS -->
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Timeframe-Past%20365%20Days-00B4D8?style=for-the-badge&labelColor=0D1B2A" alt="Date Range">
+  <img src="https://img.shields.io/github/commit-activity/y/Mapalokalala/Mapalokalala?style=for-the-badge&color=168AAD&labelColor=0D1B2A&label=Annual%20Commits" alt="Annual Commit Activity">
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+    <img src="https://raw.githubusercontent.com/Mapalokalala/Mapalokalala/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%">
   </picture>
 </p>
 
-<br>
+<p align="center">
+  <sub>📅 <i>Tracks commits, PRs, and issues over the rolling 12 months. Auto-refreshed daily at 00:00 UTC.</i></sub>
+</p>
 
 <!-- EDUCATION SECTION -->
 <h2 align="center">🎓 Education</h2>
