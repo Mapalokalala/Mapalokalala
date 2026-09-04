@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: Mapalokalala
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00B4D8
+            dist/github-contribution-grid-snake.svg?color_snake=#00B4D8&color_dots=#161b22,#0d3b66,#145da0,#2e8bc0,#00b4d8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00B4D8&color_dots=#161b22,#0d3b66,#145da0,#2e8bc0,#00b4d8
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
