@@ -62,7 +62,7 @@
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="100%" bgcolor="#0D1B2A" style="border: 1px solid #00B4D8; border-radius: 8px;">
-      <h3>💻 <a href="https://github.com/Mapalokalala/MINI_OS_DASHBOARD" style="color: #00B4D8; text-decoration: none;">MINI_OS_DASHBOARD</a></h3>
+      <h3>💻 <a href="https://github.com/Mapalokalala/Mini_OS_Dashboard-" style="color: #00B4D8; text-decoration: none;">MINI_OS_DASHBOARD</a></h3>
       <p>A comprehensive Operating System simulation environment written in C, featuring both a modern GTK+ 3.0 graphical interface and a classic command-line interface. This project simulates core OS responsibilities including process management, memory allocation, CPU scheduling, and deadlock handling.</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
